@@ -58,3 +58,7 @@ select.form-control {
   /* Behavior changed in Bootstrap v4.1.3. See https://github.com/twbs/bootstrap/issues/27629 */
   height: auto !important;
 }
+
+#docker_container pre {
+    color: white;
+}

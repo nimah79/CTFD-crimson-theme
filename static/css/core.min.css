@@ -43,3 +43,7 @@ select.form-control {
     -webkit-appearance: none;
     height: auto!important
 }
+
+#docker_container pre {
+    color: white;
+}
